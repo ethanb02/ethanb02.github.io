@@ -1,5 +1,5 @@
 #page-body {
-  width: 90%;}
+  width: 1024px;}
   
 
 h1 {
@@ -12,11 +12,11 @@ p {
 }
 
 #mybanner {text-align: center;
-width: 90%}
+width: 1024px}
 
 
 #nav-table {text-align: center;
-  width: 90%
+  width: 1024px
 }
 
 #nav-td {width: 200px; text-align:center}
