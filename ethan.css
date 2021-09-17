@@ -7,12 +7,9 @@ p {
   margin-left: 20px;
 }
 
-#mybanner {
+#mybanner {width: 1024px
 }
 
-body {
-  img src="myBackground.jpg" width="500"
-}
 
 #nav-table {
-  width=800px;}
+  width=1024px;}
