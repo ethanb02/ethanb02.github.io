@@ -2,8 +2,13 @@ h1 {
   text-align:center;
 }
 
+p {
+  margin-left: 20px;
+}
 
+#mybanner {
+}
 
 body {
-  background-color: lightblue;
+  img src="myBackground.jpg" width="500"
 }
