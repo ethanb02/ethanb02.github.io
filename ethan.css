@@ -1,8 +1,5 @@
 #page-body {
   width: 1024px;}
-  
-#about-body {
-  background image: url"myBackground.jpg"}
 
 #intro-para {width: 1024px}
 
@@ -24,3 +21,7 @@ width: 1024px}
 }
 
 #nav-td {width: 200px; text-align:center}
+
+#me-and-porch {width: 150px;}
+
+#me-and-pats {width: 150px;}
