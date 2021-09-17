@@ -11,12 +11,8 @@ p {
 width: 1024px}
 
 
-#nav-table {
+#nav-table {text-align: center;
   width: 1024px
-
 }
 
 #nav-td {width: 200px; text-align:center}
-
-.myDiv {text-align: center;
-width: 1024px}
