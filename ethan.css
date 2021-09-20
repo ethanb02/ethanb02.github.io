@@ -24,4 +24,9 @@ width: 1024px}
 
 #nav-td {width: 200px; text-align:center}
 
-
+html {
+    height: 100%;
+}
+body {
+    min-height: 100%;
+}
