@@ -1,0 +1,20 @@
+var fishx = 100;
+var fishy = 100;
+
+var draw = function() {
+    
+    background(255, 242, 0);
+fill(0, 255, 153); 
+
+ellipse (fishx-30,fishy-20,100,40); //Body 
+
+fill (10, 3, 3);
+
+ellipse (fishx+10,fishy-20,10,10); //Eye 
+
+fill(0, 255, 153); 
+
+triangle(fishx-100,fishy-70,fishx-100,fishy+30,fishx-80,fishy-20); //Tail   
+
+fishx=fishx+0.5;
+};
