@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Ethan's Programming Portfolio - javascripts</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="ethan.css">
+  </head>
+  <body id="solid-background">
+       <img src="myBanner.jpg" id="mybanner">
+       <table id="nav-table">
+      <tr>
+        <td id="nav-id"> <a href="index.html"><img src="home.png"></a></td>
+        <td id="nav-id"> <a href="javascripts.html"><img src="javascripts.png"></a></td>
+        <td id="nav-id"> <a href="apps.html"><img src="apps.png"></a></td>
+        <td id="nav-id"> <a href="about.html"><img src="about.png"></a></td>
+        </tr>
+    </table>
+     <div id="intro-para">
+      <h1>Javascripts</h1>
+    </div>
+    <h2><a href="https://www.khanacademy.org/computer-programming/boudreau_bitmoji/6630290164334592">Boudreau_bitmoji</a></h2><script src="https://www.khanacademy.org/computer-programming/boudreau_bitmoji/6630290164334592/embed.js?editor=no&buttons=no&author=no&embed=yes"></script>
+  <h2><a href="https://www.khanacademy.org/computer-programming/boudreau_dancing_bitmoji/6188524793544704">Boudreau_dancing_bitmoji</a></h2><script src="https://www.khanacademy.org/computer-programming/boudreau_dancing_bitmoji/6188524793544704/embed.js?editor=no&buttons=no&author=no&embed=yes"></script>
+<h2><a href="https://www.khanacademy.org/computer-programming/boudreau_racingbitmoji/4912294773440512">Boudreau_racingbitmoji</a></h2><script src="https://www.khanacademy.org/computer-programming/boudreau_racingbitmoji/4912294773440512/embed.js?editor=no&buttons=no&author=no&embed=yes"></script> 
+  </body>
+</html>
